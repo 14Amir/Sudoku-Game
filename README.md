@@ -1,5 +1,5 @@
 # Sudoku-Game
-This is a simple implementation of the Sudoku game
+This is a simple implementation of the Sudoku game  
 Sudoku (Japanese: 数独) is a number table that is one of the best brain exercises and IQ boosters.
 The most common type of sudoku is a 9x9 table, where the whole table is divided into 9 smaller 3x3 tables. In this table, some numbers are placed by default, and the rest of the numbers should be found by observing the following three rules:
 • The first rule: numbers 1 to 9 should be placed in each row of the table without repetition.
